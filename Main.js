@@ -18,8 +18,6 @@
 //		this is that
 //
 
-// and this is a test!...
-
 var Main = (function() {
 	
 	window.onload = init;
