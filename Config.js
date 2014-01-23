@@ -1,5 +1,5 @@
 var Config = {
 	
-	fps: 60
+	fps: 12
 	
 }
